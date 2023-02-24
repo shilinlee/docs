@@ -1,0 +1,34 @@
+import{_ as r,H as o,k as i,l as t,I as e,P as n,L as s,n as l}from"./framework-559c6e84.js";const p={},d=s("h3",{id:"as-easy-as-1-2-3",tabindex:"-1"},[s("a",{class:"header-anchor",href:"#as-easy-as-1-2-3","aria-hidden":"true"},"#"),l(" As Easy as 1, 2, 3")],-1),D=s("div",{class:"language-bash line-numbers-mode","data-ext":"sh"},[s("pre",{class:"shiki dark-plus",style:{"background-color":"#1E1E1E"}},[s("code",null,[s("span",{class:"line"},[s("span",{style:{color:"#6A9955"}},"# install in your project")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#D4D4D4"}},"pnpm "),s("span",{style:{color:"#CE9178"}},"add"),s("span",{style:{color:"#D4D4D4"}}," "),s("span",{style:{color:"#CE9178"}},"-D"),s("span",{style:{color:"#D4D4D4"}}," "),s("span",{style:{color:"#CE9178"}},"vuepress@next"),s("span",{style:{color:"#D4D4D4"}}," "),s("span",{style:{color:"#CE9178"}},"@vuepress/client@next"),s("span",{style:{color:"#D4D4D4"}}," "),s("span",{style:{color:"#CE9178"}},"vue")]),l(`
+`),s("span",{class:"line"}),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#6A9955"}},"# create a markdown file")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#DCDCAA"}},"echo"),s("span",{style:{color:"#D4D4D4"}}," "),s("span",{style:{color:"#CE9178"}},"'# Hello VuePress'"),s("span",{style:{color:"#D4D4D4"}}," > "),s("span",{style:{color:"#CE9178"}},"README.md")]),l(`
+`),s("span",{class:"line"}),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#6A9955"}},"# start writing")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#D4D4D4"}},"pnpm "),s("span",{style:{color:"#CE9178"}},"vuepress"),s("span",{style:{color:"#D4D4D4"}}," "),s("span",{style:{color:"#CE9178"}},"dev")]),l(`
+`),s("span",{class:"line"}),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#6A9955"}},"# build to static files")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#D4D4D4"}},"pnpm "),s("span",{style:{color:"#CE9178"}},"vuepress"),s("span",{style:{color:"#D4D4D4"}}," "),s("span",{style:{color:"#CE9178"}},"build")]),l(`
+`),s("span",{class:"line"})])]),s("div",{class:"line-numbers","aria-hidden":"true"},[s("div",{class:"line-number"}),s("div",{class:"line-number"}),s("div",{class:"line-number"}),s("div",{class:"line-number"}),s("div",{class:"line-number"}),s("div",{class:"line-number"}),s("div",{class:"line-number"}),s("div",{class:"line-number"}),s("div",{class:"line-number"}),s("div",{class:"line-number"}),s("div",{class:"line-number"})])],-1),u=s("div",{class:"language-bash line-numbers-mode","data-ext":"sh"},[s("pre",{class:"shiki dark-plus",style:{"background-color":"#1E1E1E"}},[s("code",null,[s("span",{class:"line"},[s("span",{style:{color:"#6A9955"}},"# install in your project")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#D4D4D4"}},"yarn "),s("span",{style:{color:"#CE9178"}},"add"),s("span",{style:{color:"#D4D4D4"}}," "),s("span",{style:{color:"#CE9178"}},"-D"),s("span",{style:{color:"#D4D4D4"}}," "),s("span",{style:{color:"#CE9178"}},"vuepress@next")]),l(`
+`),s("span",{class:"line"}),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#6A9955"}},"# create a markdown file")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#DCDCAA"}},"echo"),s("span",{style:{color:"#D4D4D4"}}," "),s("span",{style:{color:"#CE9178"}},"'# Hello VuePress'"),s("span",{style:{color:"#D4D4D4"}}," > "),s("span",{style:{color:"#CE9178"}},"README.md")]),l(`
+`),s("span",{class:"line"}),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#6A9955"}},"# start writing")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#D4D4D4"}},"yarn "),s("span",{style:{color:"#CE9178"}},"vuepress"),s("span",{style:{color:"#D4D4D4"}}," "),s("span",{style:{color:"#CE9178"}},"dev")]),l(`
+`),s("span",{class:"line"}),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#6A9955"}},"# build to static files")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#D4D4D4"}},"yarn "),s("span",{style:{color:"#CE9178"}},"vuepress"),s("span",{style:{color:"#D4D4D4"}}," "),s("span",{style:{color:"#CE9178"}},"build")]),l(`
+`),s("span",{class:"line"})])]),s("div",{class:"line-numbers","aria-hidden":"true"},[s("div",{class:"line-number"}),s("div",{class:"line-number"}),s("div",{class:"line-number"}),s("div",{class:"line-number"}),s("div",{class:"line-number"}),s("div",{class:"line-number"}),s("div",{class:"line-number"}),s("div",{class:"line-number"}),s("div",{class:"line-number"}),s("div",{class:"line-number"}),s("div",{class:"line-number"})])],-1),y=s("div",{class:"language-bash line-numbers-mode","data-ext":"sh"},[s("pre",{class:"shiki dark-plus",style:{"background-color":"#1E1E1E"}},[s("code",null,[s("span",{class:"line"},[s("span",{style:{color:"#6A9955"}},"# install in your project")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#D4D4D4"}},"npm "),s("span",{style:{color:"#CE9178"}},"install"),s("span",{style:{color:"#D4D4D4"}}," "),s("span",{style:{color:"#CE9178"}},"-D"),s("span",{style:{color:"#D4D4D4"}}," "),s("span",{style:{color:"#CE9178"}},"vuepress@next")]),l(`
+`),s("span",{class:"line"}),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#6A9955"}},"# create a markdown file")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#DCDCAA"}},"echo"),s("span",{style:{color:"#D4D4D4"}}," "),s("span",{style:{color:"#CE9178"}},"'# Hello VuePress'"),s("span",{style:{color:"#D4D4D4"}}," > "),s("span",{style:{color:"#CE9178"}},"README.md")]),l(`
+`),s("span",{class:"line"}),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#6A9955"}},"# start writing")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#D4D4D4"}},"npx "),s("span",{style:{color:"#CE9178"}},"vuepress"),s("span",{style:{color:"#D4D4D4"}}," "),s("span",{style:{color:"#CE9178"}},"dev")]),l(`
+`),s("span",{class:"line"}),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#6A9955"}},"# build to static files")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#D4D4D4"}},"npx "),s("span",{style:{color:"#CE9178"}},"vuepress"),s("span",{style:{color:"#D4D4D4"}}," "),s("span",{style:{color:"#CE9178"}},"build")]),l(`
+`),s("span",{class:"line"})])]),s("div",{class:"line-numbers","aria-hidden":"true"},[s("div",{class:"line-number"}),s("div",{class:"line-number"}),s("div",{class:"line-number"}),s("div",{class:"line-number"}),s("div",{class:"line-number"}),s("div",{class:"line-number"}),s("div",{class:"line-number"}),s("div",{class:"line-number"}),s("div",{class:"line-number"}),s("div",{class:"line-number"}),s("div",{class:"line-number"})])],-1);function m(v,b){const a=o("CodeGroupItem"),c=o("CodeGroup");return i(),t("div",null,[d,e(c,null,{default:n(()=>[e(a,{title:"PNPM",active:""},{default:n(()=>[D]),_:1}),e(a,{title:"YARN"},{default:n(()=>[u]),_:1}),e(a,{title:"NPM"},{default:n(()=>[y]),_:1})]),_:1})])}const C=r(p,[["render",m],["__file","index.html.vue"]]);export{C as default};
