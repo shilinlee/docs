@@ -1,0 +1,1 @@
+import{_ as t,k as a,l as r,M as e,n as o}from"./framework-1c7362c0.js";const n={},c=e("h1",{id:"监控告警",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#监控告警","aria-hidden":"true"},"#"),o(" 监控告警")],-1),s=[c];function _(d,i){return a(),r("div",null,s)}const h=t(n,[["render",_],["__file","monitor-alarm.html.vue"]]);export{h as default};

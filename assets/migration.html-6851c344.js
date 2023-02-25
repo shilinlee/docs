@@ -1,0 +1,1 @@
+import{_ as t,k as a,l as r,M as e,n}from"./framework-1c7362c0.js";const o={},c=e("h1",{id:"数据迁移",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#数据迁移","aria-hidden":"true"},"#"),n(" 数据迁移")],-1),s=[c];function _(i,d){return a(),r("div",null,s)}const h=t(o,[["render",_],["__file","migration.html.vue"]]);export{h as default};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-81b14334","path":"/zh/guide/migration.html","title":"数据迁移","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1677306006000,"contributors":[{"name":"shilinlee","email":"836160610@qq.com","commits":1}]},"filePathRelative":"zh/guide/migration.md"}');export{t as data};

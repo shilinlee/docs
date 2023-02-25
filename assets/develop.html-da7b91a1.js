@@ -1,0 +1,1 @@
+import{_ as t,k as a,l as o,M as e,n as c}from"./framework-1c7362c0.js";const r={},s=e("h1",{id:"应用开发",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#应用开发","aria-hidden":"true"},"#"),c(" 应用开发")],-1),n=[s];function _(d,l){return a(),o("div",null,n)}const h=t(r,[["render",_],["__file","develop.html.vue"]]);export{h as default};

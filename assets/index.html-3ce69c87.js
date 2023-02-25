@@ -1,0 +1,1 @@
+import{_ as n,k as t,l as a,M as e,n as o}from"./framework-1c7362c0.js";const i={},c=e("h1",{id:"关于opengemini",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#关于opengemini","aria-hidden":"true"},"#"),o(" 关于openGemini")],-1),r=[c];function s(_,d){return t(),a("div",null,r)}const h=n(i,[["render",s],["__file","index.html.vue"]]);export{h as default};

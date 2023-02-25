@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-47357bdb","path":"/zh/guide/","title":"关于openGemini","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1677306006000,"contributors":[{"name":"shilinlee","email":"836160610@qq.com","commits":2}]},"filePathRelative":"zh/guide/README.md"}');export{e as data};
